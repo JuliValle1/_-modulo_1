@@ -17,16 +17,3 @@ Si deseas añadir explicaciones, selecciona el botón "+ Texto" en la barra supe
 
 Y por último la implementación de Código
 Justo al lado de la opción de texto, verás el botón "+ Código". Al activarlo, se generará una celda donde puedes escribir tus funciones manualmente o apoyarte en las herramientas de asistencia por inteligencia artificial para generar bloques automáticamente. 
-
-Operación matemática simple:
-
-Python
-# Suma de dos variables
-a = 15
-b = 30
-print(f"El resultado es: {a + b}")
-Saludo personalizado:
-
-Python
-nombre = input("¿Cómo te llamas? ")
-print("Hola, " + nombre + ". ¡Bienvenido a Colab!")
