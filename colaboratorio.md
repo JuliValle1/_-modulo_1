@@ -17,3 +17,5 @@ Si deseas añadir explicaciones, selecciona el botón "+ Texto" en la barra supe
 
 Y por último la implementación de Código
 Justo al lado de la opción de texto, verás el botón "+ Código". Al activarlo, se generará una celda donde puedes escribir tus funciones manualmente o apoyarte en las herramientas de asistencia por inteligencia artificial para generar bloques automáticamente. 
+
+
