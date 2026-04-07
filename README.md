@@ -1,4 +1,4 @@
-# _-modulo_1
+# Módulo_1_TyHM
 Ejercicio 1: Cómo crear, modificar y hacer el archivo README.md
 
 Ejercicio 2: Creación de un archivo html en forma manual
